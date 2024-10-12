@@ -1,1 +1,24 @@
 /*  your css code here. If applicable */
+/* Yellow paragraph styling */
+#yellow {
+    background-color: yellow;
+    border: 1px solid green;
+    padding: 10px;
+    margin: 10px;
+}
+
+/* Red paragraph styling */
+#red {
+    background-color: red;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+}
+
+/* Green paragraph styling */
+#green {
+    background-color: green;
+    border: 1px solid yellow;
+    padding: 10px;
+    margin: 10px;
+}
